@@ -34,6 +34,14 @@ Este repositório contém:
 
 ---
 
+## 📚 Documentação
+
+A documentação completa está disponível na Wiki:
+
+👉 https://github.com/kanegae/repository-guidelines/wiki
+
+---
+
 ## 🧩 Escopo
 
 As diretrizes incluem:
