@@ -1,6 +1,6 @@
 # 📋 Repository Guidelines
 
-Este repositório centraliza as diretrizes e boas práticas para governança, organização e desenvolvimento de repositórios.
+Este repositório centraliza diretrizes e boas práticas para governança de repositórios.
 
 ---
 
@@ -15,22 +15,11 @@ Definir um padrão mínimo para garantir:
 
 ---
 
-## 📚 Conteúdo
-
-Este repositório contém:
-
-* checklist de governança de repositórios
-* padrões de branches
-* regras de Pull Request
-* automações recomendadas
-
----
-
 ## 🚀 Como utilizar
 
-1. Consulte o checklist disponível na Wiki
-2. Aplique as regras nos repositórios do projeto
-3. Utilize como referência para novos repositórios
+1. Consulte o **Checklist de Governança**
+2. Utilize o **Guia de Implementação**
+3. Aplique as diretrizes nos repositórios do projeto
 
 ---
 
@@ -38,7 +27,7 @@ Este repositório contém:
 
 A documentação completa está disponível na Wiki:
 
-👉 https://github.com/kanegae/repository-guidelines/wiki
+👉 [Acessar a Wiki](https://github.com/kanegae/repository-guidelines/wiki)
 
 ---
 
@@ -55,7 +44,7 @@ As diretrizes incluem:
 
 ## 🔄 Evolução
 
-Este documento é vivo e pode ser atualizado conforme:
+Este documento é evolutivo e pode ser atualizado conforme:
 
 * novas necessidades
 * melhorias de processo
