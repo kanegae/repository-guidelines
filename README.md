@@ -6,20 +6,22 @@ Este repositório centraliza diretrizes e boas práticas para governança de rep
 
 ## 🎯 Objetivo
 
-Definir um padrão mínimo para garantir:
+Definir um conjunto mínimo de diretrizes para garantir:
 
 * consistência entre repositórios
 * qualidade de código
 * segurança e rastreabilidade
 * fluxo de desenvolvimento organizado
 
+Inclui práticas de revisão obrigatória, proteção de branches e validações automatizadas (quando aplicável).
+
 ---
 
 ## 🚀 Como utilizar
 
-1. Consulte o **Checklist de Governança**
-2. Utilize o **Guia de Implementação**
-3. Aplique as diretrizes nos repositórios do projeto
+1. Valide o repositório utilizando o **Checklist de Governança**  
+2. Utilize o **Guia de Implementação** para configurar ou corrigir itens não conformes  
+3. Aplique as diretrizes no repositório alvo  
 
 ---
 
@@ -27,7 +29,13 @@ Definir um padrão mínimo para garantir:
 
 A documentação completa está disponível na Wiki:
 
-👉 [Acessar a Wiki](https://github.com/kanegae/repository-guidelines/wiki)
+👉 [Acessar a documentação completa na Wiki](https://github.com/kanegae/repository-guidelines/wiki)
+
+### 🔗 Acessos rápidos
+
+- 🏠 [Home da Wiki](https://github.com/kanegae/repository-guidelines/wiki)
+- 📋 [Checklist de Governança](https://github.com/kanegae/repository-guidelines/wiki/Checklist)  
+- 🛠️ [Guia de Implementação](https://github.com/kanegae/repository-guidelines/wiki/Implementa%C3%A7%C3%A3o)  
 
 ---
 
@@ -38,7 +46,7 @@ As diretrizes incluem:
 * estrutura de repositórios
 * governança de branches
 * regras de aprovação de PR
-* automações básicas (GitHub Actions)
+* automações (GitHub Actions, quando aplicável)
 
 ---
 
@@ -54,4 +62,4 @@ Este documento é evolutivo e pode ser atualizado conforme:
 
 ## 📌 Observação
 
-Este repositório não contém código de aplicação, apenas documentação e padrões.
+Este repositório contém apenas documentação e padrões, não código de aplicação.
