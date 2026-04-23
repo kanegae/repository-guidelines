@@ -36,6 +36,7 @@ A documentação completa está disponível na Wiki:
 - 🏠 [Home da Wiki](https://github.com/kanegae/repository-guidelines/wiki)
 - 📋 [Checklist de Governança](https://github.com/kanegae/repository-guidelines/wiki/Checklist)  
 - 🛠️ [Guia de Implementação](https://github.com/kanegae/repository-guidelines/wiki/Implementa%C3%A7%C3%A3o)  
+- 🌿 [Governança de Branches](https://github.com/kanegae/repository-guidelines/wiki/Governan%C3%A7a-de-Branches)  
 
 ---
 
